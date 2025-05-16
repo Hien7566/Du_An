@@ -1,0 +1,7 @@
+/* Thêm nội dung cơ bản */
+.container {
+    width: 100%;
+}
+.box {
+    border: 1px solid #ccc;
+}
